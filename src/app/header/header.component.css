@@ -1,0 +1,17 @@
+
+div.routes{
+    margin-top: 30px;
+    margin-left: 50px;
+    height: 100px;
+}
+
+div a.links{
+    padding: 10px;
+}
+
+div span{
+    position: relative;
+    margin-left: 1100px;
+    margin-top: 5px;
+}
+

@@ -1,0 +1,11 @@
+body{
+    padding-top: 50px;
+    align-items: center;
+}
+
+div.footer{
+    border-top: black solid;
+    border-width: 0.5mm;
+    position: relative;
+    margin-top: 200px;
+}

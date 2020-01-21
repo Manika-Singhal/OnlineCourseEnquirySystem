@@ -1,0 +1,11 @@
+<div>
+    <form (ngSubmit)="authenticate(loginForm.value)" #loginForm="ngForm">
+
+        Uername: <input type="text" name="usrnm" ngModel/><br>
+
+        Password: <input type="password" name="pass" ngModel/><br>
+
+        <input type="Submit" value="Login" id="submit">
+    </form>
+</div>
+

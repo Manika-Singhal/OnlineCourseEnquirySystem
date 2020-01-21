@@ -1,0 +1,19 @@
+div.carousel-inner{
+    height: 300px;
+    width: 1360px;
+    margin-left: 3px;
+    border-radius: 30px;
+    border: white solid;
+}
+
+.nav-item{
+    padding:2px;
+    margin-left: 7px;  
+}
+
+nav{
+    height: 40px;
+    width: 1355px;
+    margin-left: 6px;
+}
+
